@@ -1,6 +1,6 @@
-# hello_world
+# MusicApp
 
-A new Flutter project created with https://flutlab.io
+basic music App application I developed while learning flutter
 
 ## Getting Started
 
