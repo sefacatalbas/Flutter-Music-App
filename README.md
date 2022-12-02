@@ -1,7 +1,5 @@
 # MusicApp
 
-basic music App application I developed while learning flutter
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
